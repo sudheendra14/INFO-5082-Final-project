@@ -7,7 +7,7 @@ import numpy as np
 from nltk.tokenize import word_tokenize
 nltk.download('punkt')
 SentimentAnalysis=pipeline("sentiment-analysis")
-os.chdir(r'D:\Freelancing\Freelancer Projects\Projects\STT_apr')
+os.chdir(r'D:\SUDHEENDRA  INFO 5082 Project\Project\STT_apr')
 
 
 def run_sa(filename):
