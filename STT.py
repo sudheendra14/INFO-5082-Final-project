@@ -8,7 +8,7 @@ import os
 import sys
 import contextlib
 r = sr.Recognizer()
-os.chdir(r'D:\Freelancing\Freelancer Projects\Projects\STT_apr')
+os.chdir(r'D:\SUDHEENDRA INFO 5082 Project\Project\STT_apr')
 # fname = 'IHFL Q2-21.wav'
 
 def run_stt(filename):
